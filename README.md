@@ -1,6 +1,6 @@
 # SmartLED
 
-Custom LED lighting projects powered by BareMetal [WLED](https://kno.wled.ge/) and controlled with the [Kolori mobile app](https://kolori.wasmer.app/).
+## Custom LED lighting projects powered by BareMetal [WLED](https://kno.wled.ge/) and controlled with the [Kolori mobile app](https://kolori.wasmer.app/).
 
 ## Projects
 
