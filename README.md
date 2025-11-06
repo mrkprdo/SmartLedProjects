@@ -6,25 +6,14 @@ Custom LED lighting projects powered by [WLED](https://kno.wled.ge/) and control
 
 <div align="center">
 
-### Starlight
-
-<img src="images/starlight.gif" width="400"/>
-
-90cm LED strip light with 128 WS2815 LEDs in an 8x8 matrix configuration
-
----
-
-### Starlite
-
-<img src="images/starlite.gif" width="400"/>
-
-Compact "Cheesecake Light" with custom 3D-printed enclosure
-
----
+|                                  Starlight                                   |                            Starlite                             |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+|          <img src="images/starlight.gif" width="200" height="200"/>          |    <img src="images/starlite.gif" width="200" height="200"/>    |
+| 90cm LED strip light with 128 WS2815 LEDs<br/>in an 8x8 matrix configuration | Compact "Cheesecake Light"<br/>with custom 3D-printed enclosure |
 
 ### Controller
 
-<img src="images/controller.jpg" width="400"/>
+<img src="images/controller.jpg" width="200"/>
 
 </div>
 
